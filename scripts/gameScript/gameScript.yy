@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"gameScript",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gameScript",
+  "parent":{
+    "name":"Timelines",
+    "path":"folders/Timelines.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,1 @@
+global.fruitCounter = 0
